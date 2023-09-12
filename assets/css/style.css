@@ -56,7 +56,7 @@
     background-color: #FF5300;
     left: 0;
     top: 25px;
-    transition: 250ms all linear;
+    transition: 300ms all linear;
 }
 
 .home-bar:hover::after {
@@ -780,7 +780,7 @@
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    transition: all ease-in-out;
+    transition: all 250ms linear;
 }
 .circle:hover{
     transform: scale(1.1);
